@@ -4,4 +4,4 @@ Implementing this project provides an opportunity to practice file I/O, function
 
 **Task:** Implement planRoute.cpp.
 
-- Read the [Full Project Spec]()
+- Read the [Full Project Spec](https://github.com/Sujoy-Barua/fall21p6/blob/main/Project%206%20Specs.pdf)
